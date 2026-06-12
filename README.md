@@ -2,7 +2,7 @@
 
 <br />
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="90">
       <img width="54" src="https://api.iconify.design/mdi:cloud-outline.svg?color=%23D4EDF8" />
@@ -26,7 +26,7 @@
 
 </div>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="58%" valign="middle">
 
@@ -50,7 +50,7 @@ I am always enthusiastic to learn more, improve my skills, and build better thin
 
 <br />
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><strong>Currently learning</strong></td>
     <td>web development, devops, security, and cleaner project structure</td>
@@ -82,7 +82,7 @@ I am always enthusiastic to learn more, improve my skills, and build better thin
 
 <h2>Main Shelf ୨୧</h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="72%" align="center" valign="middle">
 
@@ -114,7 +114,7 @@ My thesis project, and one of the pieces of work I care about most. ( ˶ˆᗜˆ�
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/ktamburi/coding-resources">
@@ -139,7 +139,7 @@ My thesis project, and one of the pieces of work I care about most. ( ˶ˆᗜˆ�
       <br />
       <sub>A movie-focused web app.</sub>
     </td>
-        <td align="center" width="50%">
+    <td align="center" width="50%">
       <a href="https://github.com/ktamburi/instagram-followers">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=instagram-followers&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
       </a>
@@ -172,7 +172,7 @@ My private cookbook app, deployed with Firebase.
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/ktamburi/Bank-Marketing-UCI-Dataset-Neural-Network">
@@ -232,7 +232,6 @@ Technologies I know or I'm learning, practice with, and keep getting better at o
 
 </div>
 
-
 <br />
 
 <div align="center">
@@ -245,7 +244,7 @@ Technologies I know or I'm learning, practice with, and keep getting better at o
 
 <h2>Stats Corner (๑˃ᴗ˂)ﻭ</h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="40%" align="center" valign="middle">
       <img height="196" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktamburi&layout=compact&langs_count=8&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&bg_color=D4EDF8" />
@@ -280,7 +279,7 @@ Thanks for visiting my tiny code corner. I am still learning, still building, an
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="210">
       <a href="https://github.com/ktamburi">
