@@ -3,11 +3,11 @@
 <br />
 
 <img width="58" align="top" src="https://api.iconify.design/mdi:cloud-outline.svg?color=%23D4EDF8" alt="cloud" />
-&nbsp;&nbsp;
+&nbsp;
 <img width="38" align="top" src="https://api.iconify.design/mdi:cloud-outline.svg?color=%23D4EDF8" alt="small cloud" />
-&nbsp;&nbsp;
-<img align="middle" alt="Hi, I'm Klaudia - A Full Stack Engineer" src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Hi%2C%20I'm%20Klaudia%20-%20A%20Full%20Stack%20Engineer&fontSize=30&fontColor=D4EDF8&fontAlignY=50&fontAlign=50" />
-&nbsp;&nbsp;
+&nbsp;
+<img width="460" align="middle" alt="Hi, I'm Klaudia - A Full Stack Engineer" src="https://capsule-render.vercel.app/api?type=transparent&height=56&text=Hi%2C%20I'm%20Klaudia%20-%20A%20Full%20Stack%20Engineer&fontSize=45&fontColor=D4EDF8&fontAlignY=50&fontAlign=50" />
+&nbsp;
 <img width="145" align="middle" alt="cinnamonroll flap" src="./assets/cinnamonroll-flap.gif" />
 
 <br />
