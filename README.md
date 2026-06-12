@@ -2,35 +2,26 @@
 
 <br />
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="90">
-      <img width="54" src="https://api.iconify.design/mdi:cloud-outline.svg?color=%23D4EDF8" />
-    </td>
-    <td align="center" width="70">
-      <img width="36" src="https://api.iconify.design/mdi:cloud-outline.svg?color=%23D4EDF8" />
-    </td>
-    <td align="center">
-      <img alt="Hi, I'm Klaudia, A Full Stack Engineer" src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Hi%2C%20I'm%20Klaudia&fontSize=38&fontColor=D4EDF8&fontAlignY=34&desc=A%20Full%20Stack%20Engineer&descSize=38&descAlignY=78&descColor=D4EDF8&fontAlign=50&descAlign=50" />
-    </td>
-    <td align="center" width="230">
-      <img width="210" alt="cinnamonroll flap" src="./assets/cinnamonroll-flap.gif" />
-    </td>
-  </tr>
-</table>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" />
+<img width="58" align="top" src="https://api.iconify.design/mdi:cloud-outline.svg?color=%23D4EDF8" alt="cloud" />
+&nbsp;&nbsp;
+<img width="38" align="top" src="https://api.iconify.design/mdi:cloud-outline.svg?color=%23D4EDF8" alt="small cloud" />
+&nbsp;&nbsp;
+<strong><font size="6">Hi, I'm Klaudia - A Full Stack Engineer</font></strong>
+&nbsp;&nbsp;
+<img width="145" align="middle" alt="cinnamonroll flap" src="./assets/cinnamonroll-flap.gif" />
 
 <br />
 <br />
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" alt="" />
 
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="58%" valign="middle">
+<br />
 
 <h2>Welcome In ૮ ˶ᵔ ᵕ ᵔ˶ ა</h2>
+
+<img align="right" width="250" alt="cozy coding cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
 <p>
 This is my little GitHub corner.
@@ -48,9 +39,7 @@ Here you will find the projects I want to keep close: my thesis, deployed apps, 
 I am always enthusiastic to learn more, improve my skills, and build better things step by step. Tiny progress still counts. ᕙ( •̀ ᗜ •́ )ᕗ
 </p>
 
-<br />
-
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td><strong>Currently learning</strong></td>
     <td>web development, devops, security, and cleaner project structure</td>
@@ -61,20 +50,12 @@ I am always enthusiastic to learn more, improve my skills, and build better thin
   </tr>
 </table>
 
-</td>
-<td width="42%" valign="middle" align="center">
-
-<img width="250" alt="cozy coding cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-
-</td>
-  </tr>
-</table>
-
 <br />
+<br clear="right" />
 
 <div align="center">
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" alt="" />
 
 </div>
 
@@ -82,30 +63,19 @@ I am always enthusiastic to learn more, improve my skills, and build better thin
 
 <h2>Main Shelf ୨୧</h2>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="72%" align="center" valign="middle">
+<div align="center">
 
 <a href="https://github.com/ktamburi/Bachelor-Thesis">
-  <img width="430" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Bachelor-Thesis&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
+  <img width="430" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Bachelor-Thesis&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Bachelor Thesis repository" />
 </a>
-
-<br />
+&nbsp;&nbsp;&nbsp;
+<img width="145" alt="cinnamonroll wink" src="./assets/cinnamonroll-wink.gif" />
 
 <p>
 My thesis project, and one of the pieces of work I care about most. ( ˶ˆᗜˆ˵ )
 </p>
 
-</td>
-<td width="28%" align="center" valign="middle">
-
-<img width="145" alt="cinnamonroll wink" src="./assets/cinnamonroll-wink.gif" />
-
-</td>
-  </tr>
-</table>
-
-<br />
+</div>
 
 <details open>
 <summary><strong>Things I Put Online (*^_^*)</strong></summary>
@@ -114,42 +84,27 @@ My thesis project, and one of the pieces of work I care about most. ( ˶ˆᗜˆ�
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ktamburi/coding-resources">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=coding-resources&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
-      </a>
-      <br />
-      <sub>A cozy collection of resources I use for learning programming, security, repos, papers, and tools.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ktamburi/llogarit-pagen">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=llogarit-pagen&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
-      </a>
-      <br />
-      <sub>A salary calculator I made and deployed with GitHub Pages.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ktamburi/Movie-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Movie-Website&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
-      </a>
-      <br />
-      <sub>A movie-focused web app.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ktamburi/instagram-followers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=instagram-followers&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
-      </a>
-      <br />
-      <sub>A project around Instagram followers and profile data.</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ktamburi/coding-resources">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=coding-resources&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Coding Resources repository" />
+</a>
+<a href="https://github.com/ktamburi/llogarit-pagen">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=llogarit-pagen&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Llogarit Pagen repository" />
+</a>
 
-<br />
+<p>
+<sub>Coding Resources is my cozy learning collection. Llogarit Pagen is a salary calculator I made and deployed with GitHub Pages.</sub>
+</p>
+
+<a href="https://github.com/ktamburi/Movie-Website">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Movie-Website&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Movie Website repository" />
+</a>
+<a href="https://github.com/ktamburi/instagram-followers">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=instagram-followers&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Instagram Followers repository" />
+</a>
+
+<p>
+<sub>Movie Website is a movie-focused app. Instagram Followers is a project around followers and profile data.</sub>
+</p>
 
 <a href="https://klaudias-cook-book.web.app/">
   <img alt="Cook Book" src="https://img.shields.io/badge/Cook%20Book-private%20cookbook%20app-D4EDF8?style=for-the-badge&logo=firebase&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
@@ -172,29 +127,19 @@ My private cookbook app, deployed with Firebase.
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ktamburi/Bank-Marketing-UCI-Dataset-Neural-Network">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Bank-Marketing-UCI-Dataset-Neural-Network&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
-      </a>
-      <br />
-      <sub>A neural network project using the Bank Marketing UCI dataset.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ktamburi/Stopwatch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Stopwatch&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
-      </a>
-      <br />
-      <sub>A small frontend project for practicing UI and timing logic.</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ktamburi/Bank-Marketing-UCI-Dataset-Neural-Network">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Bank-Marketing-UCI-Dataset-Neural-Network&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Bank Marketing UCI Dataset Neural Network repository" />
+</a>
+<a href="https://github.com/ktamburi/Stopwatch">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Stopwatch&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Stopwatch repository" />
+</a>
 
-<br />
+<p>
+<sub>A neural network project using the Bank Marketing UCI dataset, plus a small frontend timing project.</sub>
+</p>
 
 <a href="https://github.com/ktamburi/Guess-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Guess-Game&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Guess-Game&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Guess Game repository" />
 </a>
 
 <p>
@@ -209,20 +154,21 @@ A tiny game project for practicing simple logic.
 
 <div align="center">
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" alt="" />
 
 </div>
 
 <br />
+
 <h2>Tech Toolbox ٩(ˊᗜˋ*)و</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite,nodejs,express,nestjs&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite,nodejs,express,nestjs&theme=light" alt="frontend and backend skill icons" />
 
-<img src="https://skillicons.dev/icons?i=php,laravel,py,fastapi,flask,postgres,mysql,mongodb,firebase,docker,tensorflow,pytorch&theme=light" />
+<img src="https://skillicons.dev/icons?i=php,laravel,py,fastapi,flask,postgres,mysql,mongodb,firebase,docker,tensorflow,pytorch&theme=light" alt="backend, data, and devops skill icons" />
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,postman,nginx,ubuntu,bash,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,postman,nginx,ubuntu,bash,git,github&theme=light" alt="programming and tooling skill icons" />
 
 <br />
 
@@ -236,7 +182,7 @@ Technologies I know or I'm learning, practice with, and keep getting better at o
 
 <div align="center">
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" alt="" />
 
 </div>
 
@@ -244,22 +190,18 @@ Technologies I know or I'm learning, practice with, and keep getting better at o
 
 <h2>Stats Corner (๑˃ᴗ˂)ﻭ</h2>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img height="196" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktamburi&layout=compact&langs_count=8&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&bg_color=D4EDF8" />
-    </td>
-    <td width="60%" align="center" valign="middle">
-      <img height="196" alt="streak stats" src="https://streak-stats.demolab.com?user=ktamburi&hide_border=true&border_radius=18&background=D4EDF8&ring=8CC7E8&fire=78B7DD&currStreakLabel=5B93B8&sideLabels=5B93B8&currStreakNum=5A7080&sideNums=5A7080&dates=8B9CAA" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img width="36%" height="196" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktamburi&layout=compact&langs_count=8&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&bg_color=D4EDF8" />
+<img width="58%" height="196" alt="streak stats" src="https://streak-stats.demolab.com?user=ktamburi&hide_border=true&border_radius=18&background=D4EDF8&ring=8CC7E8&fire=78B7DD&currStreakLabel=5B93B8&sideLabels=5B93B8&currStreakNum=5A7080&sideNums=5A7080&dates=8B9CAA" />
+
+</div>
 
 <br />
 
 <div align="center">
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" alt="" />
 
 </div>
 
@@ -279,26 +221,17 @@ Thanks for visiting my tiny code corner. I am still learning, still building, an
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="210">
-      <a href="https://github.com/ktamburi">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ktamburi-D4EDF8?style=for-the-badge&logo=github&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
-      </a>
-    </td>
-    <td align="center" width="210">
-      <a href="https://www.linkedin.com/in/klaudiatamburi/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Klaudia%20Tamburi-D4EDF8?style=for-the-badge&logo=linkedin&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
-      </a>
-    </td>
-    <td align="center" width="210">
-      <a href="https://www.instagram.com/prettybluesoul/">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-prettybluesoul-D4EDF8?style=for-the-badge&logo=instagram&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ktamburi">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ktamburi-D4EDF8?style=for-the-badge&logo=github&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
+</a>
+<a href="https://www.linkedin.com/in/klaudiatamburi/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Klaudia%20Tamburi-D4EDF8?style=for-the-badge&logo=linkedin&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
+</a>
+<a href="https://www.instagram.com/prettybluesoul/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-prettybluesoul-D4EDF8?style=for-the-badge&logo=instagram&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
+</a>
 
+<br />
 <br />
 
 <img width="190" alt="cinnamonroll heart" src="./assets/cinnamonroll-heart.gif" />
@@ -306,6 +239,6 @@ Thanks for visiting my tiny code corner. I am still learning, still building, an
 <br />
 <br />
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" alt="" />
 
 </div>
