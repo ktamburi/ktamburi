@@ -90,20 +90,12 @@ My thesis project, and one of the pieces of work I care about most. ( ˶ˆᗜˆ�
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=llogarit-pagen&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Llogarit Pagen repository" />
 </a>
 
-<p>
-<sub>Coding Resources is my cozy learning collection. Llogarit Pagen is a salary calculator I made and deployed with GitHub Pages.</sub>
-</p>
-
 <a href="https://movie-website-two-sable.vercel.app">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Movie-Website&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Movie Website repository" />
 </a>
 <a href="https://ktamburi.github.io/intagram-followers/">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=instagram-followers&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Instagram Followers repository" />
 </a>
-
-<p>
-<sub>Movie Website is a movie-focused app. Instagram Followers is a project around followers and profile data.</sub>
-</p>
 
 <a href="https://klaudias-cook-book.web.app/">
   <img alt="Cook Book live app" src="https://img.shields.io/badge/Cook%20Book-private%20cookbook%20app-D4EDF8?style=for-the-badge&logo=firebase&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
