@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Klaudia Tamburi is a full-stack engineer building thoughtful, useful digital products." />
+    <meta name="theme-color" content="#f7fbff" />
+    <meta property="og:title" content="Klaudia Tamburi — Full-stack engineer" />
+    <meta property="og:description" content="A little corner of the internet for useful products, careful code, and curious experiments." />
+    <title>Klaudia Tamburi — Full-stack engineer</title>
+    <script>
+      try {
+        const savedTheme = localStorage.getItem('portfolio-theme');
+        const systemTheme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.dataset.theme = savedTheme || systemTheme;
+      } catch (_) {
+        document.documentElement.dataset.theme = 'light';
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Manrope:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;1,500&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="page-noise" aria-hidden="true"></div>
+    <div class="cursor-glow" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <a class="wordmark" href="#top" aria-label="Klaudia Tamburi, home">
+        <span>KT</span>
+        <span class="wordmark-dot"></span>
+      </a>
+      <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span>
+        <span class="sr-only">Open navigation</span>
+      </button>
+      <nav id="site-nav" aria-label="Main navigation">
+        <a href="#work">Work</a>
+        <a href="#about">About</a>
+        <a href="#toolbox">Toolbox</a>
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch color theme">
+          <span class="theme-icon" aria-hidden="true">☾</span>
+          <span class="theme-label">Dark</span>
+        </button>
+        <a class="nav-cta" href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero section-shell">
+        <div class="hero-copy reveal">
+          <p class="eyebrow"><span class="status-dot"></span> Available for interesting projects</p>
+          <h1>I build useful things<br />with a little bit of <em>magic.</em></h1>
+          <p class="hero-intro">Hi, I'm Klaudia — a full-stack engineer who enjoys turning complicated ideas into thoughtful, friendly digital products.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#work">View selected work <span aria-hidden="true">↓</span></a>
+            <a class="text-link" href="https://github.com/ktamburi" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+
+        <div class="hero-art reveal" aria-label="A dreamy illustration of a browser window in the clouds">
+          <div class="orbit orbit-one"></div>
+          <div class="orbit orbit-two"></div>
+          <div class="cloud cloud-one"></div>
+          <div class="cloud cloud-two"></div>
+          <div class="browser-card">
+            <div class="browser-bar"><i></i><i></i><i></i><span>klaudia.dev</span></div>
+            <div class="browser-body">
+              <div class="code-line line-short"></div>
+              <div class="code-line"></div>
+              <div class="code-line line-mid"></div>
+              <div class="code-pill">idea → product</div>
+            </div>
+          </div>
+          <div class="spark spark-one">✦</div>
+          <div class="spark spark-two">✧</div>
+          <div class="art-label label-one">01 / create</div>
+          <div class="art-label label-two">curious by default</div>
+        </div>
+      </section>
+
+      <div class="marquee" aria-label="Areas of expertise">
+        <div class="marquee-track">
+          <div class="marquee-group">
+            <span>FULL-STACK DEVELOPMENT</span><i>✦</i>
+            <span>PRODUCT THINKING</span><i>✦</i>
+            <span>AI &amp; DATA</span><i>✦</i>
+            <span>API DESIGN</span><i>✦</i>
+            <span>DATABASES</span><i>✦</i>
+            <span>UI ENGINEERING</span><i>✦</i>
+            <span>DEVOPS</span><i>✦</i>
+            <span>SECURITY</span><i>✦</i>
+            <span>PROBLEM SOLVING</span><i>✦</i>
+            <span>CURIOUS EXPERIMENTS</span><i>✦</i>
+          </div>
+          <div class="marquee-group" aria-hidden="true">
+            <span>FULL-STACK DEVELOPMENT</span><i>✦</i>
+            <span>PRODUCT THINKING</span><i>✦</i>
+            <span>AI &amp; DATA</span><i>✦</i>
+            <span>API DESIGN</span><i>✦</i>
+            <span>DATABASES</span><i>✦</i>
+            <span>UI ENGINEERING</span><i>✦</i>
+            <span>DEVOPS</span><i>✦</i>
+            <span>SECURITY</span><i>✦</i>
+            <span>PROBLEM SOLVING</span><i>✦</i>
+            <span>CURIOUS EXPERIMENTS</span><i>✦</i>
+          </div>
+        </div>
+      </div>
+
+      <section id="work" class="work section-shell">
+        <div class="section-heading reveal">
+          <div>
+            <p class="eyebrow">Selected work / 2024–26</p>
+            <h2>Things I've made</h2>
+          </div>
+          <p>A mix of ambitious research, practical tools, and playful builds — each one taught me something worth keeping.</p>
+        </div>
+
+        <article class="featured-project reveal">
+          <div class="project-visual thesis-visual">
+            <div class="data-card data-card-a"><span>demand</span><strong>+18.4%</strong><small>forecast accuracy</small></div>
+            <div class="route-map">
+              <span class="route route-a"></span><span class="route route-b"></span>
+              <i class="node node-a"></i><i class="node node-b"></i><i class="node node-c"></i><i class="node node-d"></i>
+            </div>
+            <div class="data-card data-card-b"><span>optimal route</span><strong>04</strong><small>retail branches</small></div>
+            <p>AI / LOGISTICS / OPTIMIZATION</p>
+          </div>
+          <div class="project-copy">
+            <p class="project-number">01 — Featured project</p>
+            <h3>Bachelor Thesis</h3>
+            <p>An AI-powered logistics optimization model combining LSTM forecasting, mixed-integer programming, and vehicle routing to create better stock harmony across retail branches.</p>
+            <ul class="tags" aria-label="Technologies used">
+              <li>Python</li><li>LSTM</li><li>MILP</li><li>Data science</li>
+            </ul>
+            <a class="project-link" href="https://github.com/ktamburi/Bachelor-Thesis" target="_blank" rel="noreferrer">Open on GitHub</a>
+          </div>
+        </article>
+
+        <div class="project-grid">
+          <article class="project-card reveal">
+            <div class="project-card-top cookbook-visual">
+              <div class="recipe-book">
+                <div class="recipe-page">
+                  <small>MY COOK BOOK</small>
+                  <strong>Recipes worth<br />making again</strong>
+                  <span></span><span></span><span></span>
+                </div>
+                <div class="book-spine"></div>
+              </div>
+              <div class="herb herb-a">⌇</div><div class="herb herb-b">⌇</div>
+            </div>
+            <div class="project-card-copy">
+              <p class="project-number">02 — Personal web app</p>
+              <h3>Cook Book</h3>
+              <p>A private cookbook for keeping favourite recipes organized, easy to find, and ready for the next meal.</p>
+              <div class="card-links"><a href="https://klaudias-cook-book.web.app/" target="_blank" rel="noreferrer">Visit site</a></div>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-card-top salary-visual">
+              <div class="salary-slip"><small>PAGA NETO</small><strong>83,450 <i>ALL</i></strong><span><b></b></span><span><b></b></span><span><b></b></span></div>
+              <div class="coin coin-a">L</div><div class="coin coin-b">L</div>
+            </div>
+            <div class="project-card-copy">
+              <p class="project-number">03 — Utility</p>
+              <h3>Llogarit Pagën</h3>
+              <p>An Albanian salary calculator for gross and net pay, taxes, sick-day deductions, and employer costs.</p>
+              <div class="card-links"><a href="https://ktamburi.github.io/llogarit-pagen/" target="_blank" rel="noreferrer">Visit site</a><a href="https://github.com/ktamburi/llogarit-pagen" target="_blank" rel="noreferrer">Repository</a></div>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-card-top resource-visual">
+              <span class="mini-window"><i></i><i></i><i></i></span>
+              <div class="resource-stack"><b>dev.</b><span>carefully collected resources</span><em>HTML</em><em>VUE</em><em>CSS</em></div>
+            </div>
+            <div class="project-card-copy">
+              <p class="project-number">04 — Web app</p>
+              <h3>Coding Resources</h3>
+              <p>A curated, searchable collection of programming resources, built to make learning less overwhelming.</p>
+              <div class="card-links"><a href="https://ktamburi.github.io/coding-resources/" target="_blank" rel="noreferrer">Visit site</a><a href="https://github.com/ktamburi/coding-resources" target="_blank" rel="noreferrer">Repository</a></div>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-card-top movie-visual">
+              <div class="movie-poster poster-a"><span>WILD<br />SKIES</span></div><div class="movie-poster poster-b"><span>NOIR</span></div><div class="movie-poster poster-c"><span>AFTER<br />LIGHT</span></div>
+              <div class="play-button">▶</div>
+            </div>
+            <div class="project-card-copy">
+              <p class="project-number">05 — Full-stack app</p>
+              <h3>Movie Website</h3>
+              <p>A movie discovery experience with authentication, favourites, watch history, and personal ratings.</p>
+              <div class="card-links"><a href="https://movie-website-two-sable.vercel.app" target="_blank" rel="noreferrer">Visit site</a><a href="https://github.com/ktamburi/Movie-Website" target="_blank" rel="noreferrer">Repository</a></div>
+            </div>
+          </article>
+
+          <article class="project-card reveal">
+            <div class="project-card-top follow-visual">
+              <div class="profile-bubble bubble-a">KT</div><div class="profile-bubble bubble-b">A</div><div class="profile-bubble bubble-c">M</div>
+              <div class="compare-card"><span>following</span><b>↔</b><span>followers</span></div>
+            </div>
+            <div class="project-card-copy">
+              <p class="project-number">06 — Privacy-first tool</p>
+              <h3>Follower Compare</h3>
+              <p>A simple local tool that compares following lists using official Instagram data exports.</p>
+              <div class="card-links"><a href="https://ktamburi.github.io/instagram-followers/" target="_blank" rel="noreferrer">Visit site</a><a href="https://github.com/ktamburi/instagram-followers" target="_blank" rel="noreferrer">Repository</a></div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="about" class="about section-shell">
+        <div class="about-portrait reveal">
+          <div class="portrait-frame">
+            <div class="portrait-sky"><span>✦</span><span>☁</span><span>✧</span></div>
+            <img src="assets/cinnamonroll-wink.gif" alt="A small Cinnamoroll character waving" />
+          </div>
+          <p>Based in Albania · Building everywhere</p>
+        </div>
+        <div class="about-copy reveal">
+          <p class="eyebrow">A little about me</p>
+          <h2>Engineer at heart,<br /><em>always learning.</em></h2>
+          <p>I care about the space where technology meets real people. That means asking good questions, making complex systems feel approachable, and polishing the small details that turn working software into a good experience.</p>
+          <p>When I'm not deep in a project, I'm usually collecting resources, exploring security and DevOps, or making a tiny tool just because it would be useful.</p>
+          <a class="text-link" href="https://www.linkedin.com/in/klaudiatamburi/" target="_blank" rel="noreferrer">LinkedIn profile</a>
+        </div>
+      </section>
+
+      <section id="toolbox" class="toolbox section-shell reveal">
+        <div class="section-heading">
+          <div><p class="eyebrow">My toolbox</p><h2>Technologies I work with</h2></div>
+        </div>
+        <div class="tool-groups">
+          <div><h3>Frontend</h3><p>JavaScript · TypeScript · React · Next.js · Vue · Tailwind</p></div>
+          <div><h3>Backend</h3><p>Node.js · Laravel · FastAPI · Flask · PostgreSQL · Firebase</p></div>
+          <div><h3>Data &amp; tools</h3><p>Python · TensorFlow · PyTorch · Docker · Git · Linux</p></div>
+        </div>
+      </section>
+
+      <section id="contact" class="contact section-shell reveal">
+        <div class="contact-cloud cloud-left"></div><div class="contact-cloud cloud-right"></div>
+        <p class="eyebrow">Have an idea?</p>
+        <h2>Let's make something<br /><em>lovely &amp; useful.</em></h2>
+        <p>I'm always happy to talk about a thoughtful project, an interesting role, or a good technical puzzle.</p>
+        <a class="button button-primary" href="https://www.linkedin.com/in/klaudiatamburi/" target="_blank" rel="noreferrer">Start a conversation</a>
+      </section>
+    </main>
+
+    <footer class="site-footer section-shell">
+      <a class="wordmark" href="#top"><span>KT</span><span class="wordmark-dot"></span></a>
+      <p>Designed &amp; built with care — <span id="year"></span></p>
+      <div><a href="https://github.com/ktamburi" target="_blank" rel="noreferrer">GitHub</a><a href="https://www.linkedin.com/in/klaudiatamburi/" target="_blank" rel="noreferrer">LinkedIn</a><a href="https://www.instagram.com/prettybluesoul/" target="_blank" rel="noreferrer">Instagram</a></div>
+    </footer>
+  </body>
+</html>

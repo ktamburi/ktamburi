@@ -218,6 +218,9 @@ Thanks for visiting my tiny code corner. I am still learning, still building, an
 
 <div align="center">
 
+<a href="https://klaudiatamburi.web.app/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-klaudiatamburi.web.app-D4EDF8?style=for-the-badge&logo=firebase&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
+</a>
 <a href="https://github.com/ktamburi">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ktamburi-D4EDF8?style=for-the-badge&logo=github&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
 </a>
