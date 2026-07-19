@@ -14,6 +14,10 @@
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=D4EDF8&height=3" alt="" />
 
+<br />
+
+<a href="https://klaudiatamburi.web.app/"><strong>Visit my personal website</strong></a>
+
 </div>
 
 <br />
@@ -62,56 +66,65 @@ I am always enthusiastic to learn more, improve my skills, and build better thin
 
 <h2>Main Shelf ୨୧</h2>
 
-<div align="center">
+<table>
+  <tr>
+    <td width="75%" valign="top">
+      <h3><a href="https://github.com/ktamburi/Bachelor-Thesis">Bachelor Thesis</a></h3>
+      <p>AI-powered logistics optimization using LSTM forecasting, mixed-integer programming, and vehicle routing to improve stock harmony across retail branches.</p>
+      <p><code>Python</code> <code>LSTM</code> <code>MILP</code> <code>Data Science</code></p>
+      <p><a href="https://github.com/ktamburi/Bachelor-Thesis">View repository</a></p>
+    </td>
+    <td width="25%" align="center">
+      <img width="135" alt="cinnamonroll wink" src="./assets/cinnamonroll-wink.gif" />
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/ktamburi/Bachelor-Thesis">
-  <img width="430" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Bachelor-Thesis&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Bachelor Thesis repository" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<img width="145" alt="cinnamonroll wink" src="./assets/cinnamonroll-wink.gif" />
-
-<p>
-My thesis project, and one of the pieces of work I care about most. ( ˶ˆᗜˆ˵ )
-</p>
-
-</div>
+<p align="center">My thesis project, and one of the pieces of work I care about most. ( ˶ˆᗜˆ˵ )</p>
 
 <details open>
 <summary><strong>Things I Put Online (*^_^*)</strong></summary>
 
 <br />
 
-<div align="center">
-
-<a href="https://ktamburi.github.io/coding-resources/">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=coding-resources&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8&card_width=390&description_lines_count=2" alt="Coding Resources repository" />
-</a>
-&nbsp;&nbsp;
-<a href="https://ktamburi.github.io/llogarit-pagen/">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=llogarit-pagen&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8&card_width=390&description_lines_count=2" alt="Llogarit Pagen repository" />
-</a>
-
-<br />
-
-<a href="https://movie-website-two-sable.vercel.app">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Movie-Website&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8&card_width=390&description_lines_count=2" alt="Movie Website repository" />
-</a>
-&nbsp;&nbsp;
-<a href="https://ktamburi.github.io/instagram-followers/">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=instagram-followers&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8&card_width=390&description_lines_count=2" alt="Instagram Followers repository" />
-</a>
-
-<br />
-
-<a href="https://klaudias-cook-book.web.app/">
-  <img alt="Cook Book live app" src="https://img.shields.io/badge/Cook%20Book-private%20cookbook%20app-D4EDF8?style=for-the-badge&logo=firebase&logoColor=5B93B8&labelColor=F7FCFF&color=D4EDF8" />
-</a>
-
-<p>
-My private cookbook app, deployed with Firebase.
-</p>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktamburi/coding-resources">Coding Resources</a></h3>
+      <p>A searchable collection of programming resources designed to make learning less overwhelming.</p>
+      <p><code>Vue</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code></p>
+      <p><a href="https://ktamburi.github.io/coding-resources/">Live site</a> · <a href="https://github.com/ktamburi/coding-resources">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktamburi/llogarit-pagen">Llogarit Pagën</a></h3>
+      <p>An Albanian salary calculator for gross and net pay, taxes, deductions, and employer costs.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><a href="https://ktamburi.github.io/llogarit-pagen/">Live site</a> · <a href="https://github.com/ktamburi/llogarit-pagen">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktamburi/Movie-Website">Movie Website</a></h3>
+      <p>A movie discovery app with authentication, favourites, watch history, and personal ratings.</p>
+      <p><code>Next.js</code> <code>Firebase</code> <code>TMDB</code></p>
+      <p><a href="https://movie-website-two-sable.vercel.app">Live site</a> · <a href="https://github.com/ktamburi/Movie-Website">Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktamburi/instagram-followers">Instagram Followers</a></h3>
+      <p>A privacy-first tool that compares following lists using official Instagram data exports.</p>
+      <p><code>JavaScript</code> <code>Local Processing</code></p>
+      <p><a href="https://ktamburi.github.io/instagram-followers/">Live site</a> · <a href="https://github.com/ktamburi/instagram-followers">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://klaudias-cook-book.web.app/">Cook Book</a></h3>
+      <p>My private cookbook for keeping favourite recipes organized and easy to find.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Firebase</code></p>
+      <p><a href="https://klaudias-cook-book.web.app/">Live site</a></p>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -122,28 +135,30 @@ My private cookbook app, deployed with Firebase.
 
 <br />
 
-<div align="center">
-
-<a href="https://github.com/ktamburi/Bank-Marketing-UCI-Dataset-Neural-Network">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Bank-Marketing-UCI-Dataset-Neural-Network&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Bank Marketing UCI Dataset Neural Network repository" />
-</a>
-<a href="https://github.com/ktamburi/Stopwatch">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Stopwatch&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Stopwatch repository" />
-</a>
-
-<p>
-<sub>A neural network project using the Bank Marketing UCI dataset, plus a small frontend timing project.</sub>
-</p>
-
-<a href="https://github.com/ktamburi/Guess-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ktamburi&repo=Guess-Game&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&icon_color=8CC7E8&bg_color=D4EDF8" alt="Guess Game repository" />
-</a>
-
-<p>
-A tiny game project for practicing simple logic.
-</p>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktamburi/Bank-Marketing-UCI-Dataset-Neural-Network">Bank Marketing Neural Network</a></h3>
+      <p>A bank subscription classification project created for the SWE303 Artificial Intelligence course.</p>
+      <p><code>Python</code> <code>Neural Networks</code> <code>Machine Learning</code></p>
+      <p><a href="https://github.com/ktamburi/Bank-Marketing-UCI-Dataset-Neural-Network">View repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ktamburi/Stopwatch">Stopwatch</a></h3>
+      <p>A digital stopwatch programmed for a PIC microcontroller as part of the CEN389 Embedded Systems course.</p>
+      <p><code>C</code> <code>PIC</code> <code>Embedded Systems</code></p>
+      <p><a href="https://github.com/ktamburi/Stopwatch">View repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/ktamburi/Guess-Game">Guess Game</a></h3>
+      <p>A number guessing game for a PIC microcontroller, built to practice embedded programming and simple game logic.</p>
+      <p><code>C</code> <code>PIC</code> <code>Embedded Systems</code></p>
+      <p><a href="https://github.com/ktamburi/Guess-Game">View repository</a></p>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -189,7 +204,6 @@ Technologies I know or I'm learning, practice with, and keep getting better at o
 
 <div align="center">
 
-<img width="36%" height="196" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktamburi&layout=compact&langs_count=8&hide_border=true&border_radius=18&title_color=5B93B8&text_color=5A7080&bg_color=D4EDF8" />
 <img width="58%" height="196" alt="streak stats" src="https://streak-stats.demolab.com?user=ktamburi&hide_border=true&border_radius=18&background=D4EDF8&ring=8CC7E8&fire=78B7DD&currStreakLabel=5B93B8&sideLabels=5B93B8&currStreakNum=5A7080&sideNums=5A7080&dates=8B9CAA" />
 
 </div>
